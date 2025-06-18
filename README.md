@@ -29,8 +29,3 @@ En yüksek başarıyı spaCy modeli göstermiştir. Ayrıntılar için PDF rapor
 ## 📄 Proje Raporu
 
 🔗 [Rapora buradan ulaşabilirsiniz](./report.pdf)
-
-## ⚙️ Gereksinimler
-
-```bash
-pip install -r requirements.txt
